@@ -1,10 +1,12 @@
 # Amazon-Super-Sales
 
+## Page 1 — Overview
+
 <img width="1465" height="805" alt="Screenshot 2026-04-14 122940" src="https://github.com/user-attachments/assets/71d5f28b-d144-4cc5-8480-c897c9758d0d" />
  # Amazon Sales Dashboard (Power BI)
 
 
-## Page 1 — Overview
+
 
 
 
@@ -38,10 +40,11 @@ High-level summary of total revenue, orders, and shipping across countries, cate
 Country · Category · City · Order Date (01/01/2020 – 19/12/2024)
 
 ---
-
+  ## Page 2 — Products 
+  
 <img width="1456" height="801" alt="Screenshot 2026-04-14 122950" src="https://github.com/user-attachments/assets/969e4b63-d47e-4e47-a20a-521a30247848" />
 
-  ## Page 2 — Products
+
 
 Detailed breakdown of order status, payment methods, shipping cost by country, and brand performance.
 
@@ -66,3 +69,28 @@ Country · Category · City · Order Date
 ## Tools Used
 - Power BI Desktop
 - Data range: January 2020 – December 2024
+
+## Page 3 — Regions
+
+<img width="1486" height="811" alt="Screenshot 2026-04-14 123024" src="https://github.com/user-attachments/assets/9a138e80-6a2f-41e1-ab7e-6812d5e9b45b" />
+
+
+
+Geographic and customer-level breakdown of sales, shipping costs, and top products.
+
+### Charts
+- **Top Customers by Sales (bar chart)** — Pooja Kapoor leads at 545K, followed by Vihaan Singh (525K), Aditya Gupta (513K), Mohit Singh (513K), Kabir Joshi (512K)
+- **Shipping Cost by Category (area chart)** — Electronics highest at 125K, Sports & Outdoors 124K, Books 123K, Home & Kitchen 122K, Toys & Games 122K, Clothing lowest at 121K
+- **Top Products by Sales (horizontal bar)** — Memory Card 1920K, LED Desk Lamp 1915K, Mechanical Keyboard 1899K, Smartwatch 1896K, Electric Kettle 1888K
+- **World Map** — Geographic distribution of sales highlighted across countries
+- **Customer Detail Table** — Shows each customer's Total Amount, Shipping Cost, and Unit Price
+
+### Customer Table Summary
+| Metric | Value |
+|---|---|
+| Total Amount | 91,314,020.88 |
+| Total Shipping Cost | 736,645.27 |
+| Total Unit Price | 30,122,021.65 |
+
+### Filters
+Category · City · Order Date (01/01/2020 – 19/12/2024)
