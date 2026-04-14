@@ -39,3 +39,30 @@ Country · Category · City · Order Date (01/01/2020 – 19/12/2024)
 
 ---
 
+<img width="1456" height="801" alt="Screenshot 2026-04-14 122950" src="https://github.com/user-attachments/assets/969e4b63-d47e-4e47-a20a-521a30247848" />
+
+  ## Page 2 — Products
+
+Detailed breakdown of order status, payment methods, shipping cost by country, and brand performance.
+
+### KPI Cards
+| Metric | Value |
+|---|---|
+| Total Discount | 7.38K |
+| Shipping Cost | 736.65K |
+| Total Tax | 6.81M |
+
+### Charts
+- **Order Status** — Delivered = 68.01M (majority); Shipped 14M; Pending 3.71M; Cancelled 2.76M; Returned (smallest)
+- **Payment Method** — Credit Card 31.95M; Debit Card 18.42M; Amazon Pay 13.82M; Net Banking 13.63M; UPI 9.01M; Cash on Delivery 4.49M
+- **Shipping Cost by Country** — US = 516K; India = 111K; Canada 43K; UK 36K; Australia 31K
+- **Top Brands** — Zenith (694K), ReadMore, CoreTech, Apex, KiddoFun, UrbanStyle, BrightLux, HomeEase, FitLife, NexPro
+
+### Filters
+Country · Category · City · Order Date
+
+---
+
+## Tools Used
+- Power BI Desktop
+- Data range: January 2020 – December 2024
